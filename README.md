@@ -13,7 +13,7 @@ Here is the interactive map with the Average Rent Prices, Average Third-Level Pr
 
 
 
-[Link to Tableau Data](https://public.tableau.com/views/TLPRate/TPLRCharts?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
+[Link to Tableau Data](https://public.tableau.com/views/TLPRate/Scatterplot?:embed=y&:display_count=yes&:origin=viz_share_link)
 
 
 
