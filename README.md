@@ -30,5 +30,9 @@ FeePaying Barchart Screenshot:
 DEIS School Barchart Screenshot:
 ![](images/DEIS.png)
 
+Gendered Schools Barchart Screenshot:
+![](images/gender.png)
+
+
 
 
