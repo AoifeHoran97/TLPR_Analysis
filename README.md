@@ -6,6 +6,9 @@ HEADLINE?
 
 INTRO?
 
+
+
+
 Here is the interactive map with the Average Rent Prices, Average Third-Level Progression Rates and Second-Level School locations in Dublin.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=11Z7C4pZofy8x8XIXdGq5rym34vl6tTBZ" width="1000" height="750"></iframe>
